@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fqbE6cuTlNxY9n7xg1Aq/svF3cqdgMWOShEau72EgG+x6UZ6RG5WtIfT0NAU8ebxKr3NjAfIzTIr97Ghk8XQGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\s3sari00\\OneDrive - OSAO\\koodaus\\csharppipäättöyuö\\PaattotyoViimeinenCSharp\\n-ytt-ty-\\PaattotyoViimeinenCSharp\\PäättötyöViimeinenCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s3sari00\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\s3sari00\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\s3sari00\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\s3sari00\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
